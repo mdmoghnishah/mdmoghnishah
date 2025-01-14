@@ -78,3 +78,8 @@ Tools and Other Technologies
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mdmoghnishah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
